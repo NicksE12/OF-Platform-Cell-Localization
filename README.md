@@ -1,1 +1,10 @@
 All important files and pictures for the BEP of Nick are in this repository 'CAD-files'.
+The 5 CAD files are:
+Arducam Optics.stl: camera module as used in the project
+Calibration slide houder.stl: Slide holder for calibration slide
+Microscope-3.5mm minder.stl: Main body as used in the project
+Slide holder ibid.stl: Slide holder as used in the project
+slideholder3rdwellcenter.stl: Slide holder that has 3rd ibidi well in exact center (WAS DEVELOPED AFTER THE REPORT HAS BEEN WRITTEN)
+
+NMG_coordinates.py: python script for coordinate conversion
+NMG_microscope_controll.py: python script for microscope controll (This script has been changed numerous times, pictures in the report may be taken with a script that is a similar but different version of this script)
