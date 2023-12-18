@@ -5,6 +5,7 @@ The 5 CAD files are:
 3. Microscope-3.5mm minder.stl: Main body as used in the project  
 4. Slide holder ibid.stl: Slide holder as used in the project  
 5. slideholder3rdwellcenter.stl: Slide holder that has 3rd ibidi well in exact center (WAS DEVELOPED AFTER THE REPORT HAS BEEN WRITTEN)
+6. B0196 arducam USB camera Objective.stl Camera module for other users of OF community (perfect fit arducam)
 
 NMG_coordinates.py: Python script for coordinate conversion  
 NMG_microscope_controll.py: Python script for microscope control (This script has been changed numerous times, pictures in the report may be taken with a script that is a similar but different version of this script)
