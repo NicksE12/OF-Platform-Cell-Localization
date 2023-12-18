@@ -1,6 +1,6 @@
 All important files and pictures for the BEP of Nick are in this repository 'CAD-files'.
 The 5 CAD files are:
-Arducam Optics.stl: camera module as used in the project
+Arducam Optics.stl: camera module as used in the project /n 
 Calibration slide houder.stl: Slide holder for calibration slide
 Microscope-3.5mm minder.stl: Main body as used in the project
 Slide holder ibid.stl: Slide holder as used in the project
